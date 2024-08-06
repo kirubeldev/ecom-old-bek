@@ -1,7 +1,7 @@
 
 "use client"
 import React from 'react';
-import { BsCart4 } from 'react-icons/bs';
+import { BsCart4  } from 'react-icons/bs';
 import { useDispatch, useSelector } from 'react-redux';
 import { MdDeleteForever } from 'react-icons/md';
 import { CgDanger } from 'react-icons/cg';
