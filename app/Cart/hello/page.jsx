@@ -8,6 +8,7 @@ import { CgDanger } from 'react-icons/cg';
 import { IoBagHandleSharp } from 'react-icons/io5';
 import Link from 'next/link';
 import { DecreseQuantity, increseQuantity, removeFromCart } from '@/app/redux/slices/cartSlice';
+import Image from 'next/image';
 
 const Cart = () => {
   const cart = useSelector((state) => state.cart.cart);
@@ -68,7 +69,7 @@ hadeldecresquantity
                 <tr key={index} className='hover:bg-gray-100'>
                   <td className='px-6 py-4 whitespace-nowrap'>
                     <div className='flex items-center'>
-                      <img className='h-16 w-16 rounded-md object-cover' src={item.image} alt={item.name} />
+                      <Image className='h-16 w-16 rounded-md object-cover' src={item.image} alt={item.name} />
                     </div>
                   </td>
                   <td className='px-2 py-4 whitespace-nowrap'>

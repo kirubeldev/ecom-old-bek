@@ -8,6 +8,7 @@ import { AddToCart } from '@/app/redux/slices/cartSlice';
 import Link from 'next/link';
 import { IoBagHandleSharp } from 'react-icons/io5';
 import { BsEmojiTear } from "react-icons/bs";
+import Image from 'next/image';
 
 const Cart = () => {
   const dispatch = useDispatch();
@@ -48,7 +49,7 @@ const Cart = () => {
               {wishlist.map((item, index) => (
                 <div key={index} className={`flex justify-between items-center mb-6 ${index % 2 === 0 ? 'bg-gray-100' : 'bg-gray-200'} py-4 px-6 rounded-md`}>
 
-                    <img src={item.image} className="w-[100px] h-[100px]" alt={item.name} />
+                    <Image src={item.image} className="w-[100px] h-[100px]" alt={item.name} />
          
           
                     <p className="truncate w-[200px]">{item.name}</p>
