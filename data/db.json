@@ -1,0 +1,155 @@
+{
+   "products": [
+     {
+       "id": 1,
+       "name": "Apple Iphone 15 pro 128GB",
+       "price": 500,
+       "rating": 0,
+       "image": "https://images.unsplash.com/photo-1695048064926-4da0dd8259d1?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGlwaG9uZSUyMDE1fGVufDB8fDB8fHww",
+       "brand": "apple",
+       "color": "black",
+       "description": "Enjoy the latest iPhone with advanced features and stunning design."
+     },
+     {
+       "id": 2,
+       "name": "Laptop S21 128GB",
+       "price": 400,
+       "rating": 2,
+       "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wfGVufDB8fDB8fHww",
+       "brand": "tecno",
+       "color": "gold",
+       "description": "Powerful laptop for all your productivity needs, featuring a sleek design."
+     },
+     {
+       "id": 3,
+       "name": "Headset",
+       "price": 600,
+       "rating": 3,
+       "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aGVhZHNldHxlbnwwfHwwfHx8MA%3D%3D",
+       "brand": "huawie",
+       "color": "purple",
+       "description": "Immerse yourself in crystal-clear audio with this high-quality headset."
+     },
+     {
+       "id": 4,
+       "name": "sumsung  128GB",
+       "price": 300,
+       "rating": 4,
+       "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bGFwdG9wfGVufDB8fDB8fHww",
+       "brand": "samsung",
+       "color": "gold",
+       "description": "Expand your storage and enjoy smooth performance with this Samsung device."
+     },
+     {
+       "id": 5,
+       "name": "Realme 8 pro 0GB",
+       "price": 350,
+       "rating": 5,
+       "image": "https://images.unsplash.com/photo-1525598912003-663126343e1f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGhvbmV8ZW58MHwwfDB8fHww",
+       "brand": "nokia",
+       "color": "blue",
+       "description": "Capture stunning photos and enjoy seamless performance with Realme's latest smartphone."
+     },
+     {
+       "id": 6,
+       "name": "Apple Iphone 15 pro 128GB",
+       "price": 500,
+       "rating": 0,
+       "image": "https://images.unsplash.com/photo-1695048064926-4da0dd8259d1?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGlwaG9uZSUyMDE1fGVufDB8fDB8fHww",
+       "brand": "apple",
+       "color": "gold",
+       "description": "Enjoy the latest iPhone with advanced features and stunning design."
+     },
+     {
+       "id": 7,
+       "name": "Laptop S21 128GB",
+       "price": 400,
+       "rating": 2,
+       "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wfGVufDB8fDB8fHww",
+       "brand": "tecno",
+       "color": "blue",
+       "description": "Powerful laptop for all your productivity needs, featuring a sleek design."
+     },
+     {
+       "id": 8,
+       "name": "Headset",
+       "price": 600,
+       "rating": 3,
+       "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aGVhZHNldHxlbnwwfHwwfHx8MA%3D%3D",
+       "brand": "huawie",
+       "color": "",
+       "description": "Immerse yourself in crystal-clear audio with this high-quality headset."
+     },
+     {
+       "id": 9,
+       "name": "sumsung termostat",
+       "price": 300,
+       "rating": 4,
+       "image": "https://images.unsplash.com/photo-1545259741-2ea3ebf61fa3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c21hcnQlMjB3YWNofGVufDB8MHwwfHx8MA%3D%3D",
+       "brand": "samsung",
+       "color": "purple",
+       "description": "Efficiently control your home's temperature with this smart thermostat from Samsung."
+     },
+     {
+       "id": 10,
+       "name": "Alexa pro",
+       "price": 350,
+       "rating": 5,
+       "image": "https://images.unsplash.com/photo-1519558260268-cde7e03a0152?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c21hcnQlMjB3YWNofGVufDB8MHwwfHx8MA%3D%3D",
+       "brand": "nokia",
+       "color": "blue",
+       "description": "Enhance your smart home experience with Alexa, your personal assistant."
+     },
+     {
+       "id": 11,
+       "name": "Apple Iphone 15 pro 128GB",
+       "price": 500,
+       "rating": 0,
+       "image": "https://images.unsplash.com/photo-1695048064926-4da0dd8259d1?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGlwaG9uZSUyMDE1fGVufDB8fDB8fHww",
+       "brand": "apple",
+       "color": "gold",
+       "description": "Enjoy the latest iPhone with advanced features and stunning design."
+     },
+     {
+       "id": 12,
+       "name": "Laptop S21 128GB",
+       "price": 400,
+       "rating": 2,
+       "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wfGVufDB8fDB8fHww",
+       "brand": "tecno",
+       "color": "gold",
+       "description": "Powerful laptop for all your productivity needs, featuring a sleek design."
+     },
+     {
+       "id": 13,
+       "name": "Headset",
+       "price": 600,
+       "rating": 3,
+       "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aGVhZHNldHxlbnwwfHwwfHx8MA%3D%3D",
+       "brand": "huawie",
+       "color": "",
+       "description": "Immerse yourself in crystal-clear audio with this high-quality headset."
+     },
+     {
+       "id": 14,
+       "name": "sumsung 10 watch 12GB",
+       "price": 300,
+       "rating": 4,
+       "image": "https://images.unsplash.com/photo-1617043786394-f977fa12eddf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c21hcnQlMjB3YXRjaHxlbnwwfDB8MHx8fDA%3D",
+       "brand": "samsung",
+       "color": "blue",
+       "description": "Stay connected with Samsung's smartwatch, offering a blend of style and functionality."
+     },
+     {
+       "id": 15,
+       "name": "apple watch",
+       "price": 350,
+       "rating": 5,
+       "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c21hcnQlMjB3YXRjaHxlbnwwfDB8MHx8fDA%3D",
+       "brand": "nokia",
+       "color": "purple",
+       "description": "Track your health and stay connected with Apple's stylish and versatile smartwatch."
+     }
+   ]
+ }
+ 
