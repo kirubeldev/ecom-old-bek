@@ -48,7 +48,7 @@
        "image": "https://images.unsplash.com/photo-1525598912003-663126343e1f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGhvbmV8ZW58MHwwfDB8fHww",
        "brand": "nokia",
        "color": "blue",
-       "description": "Capture stunning photos and enjoy seamless performance with Realme's latest smartphone."
+       "description": "Capture stunning photos and enjoy seamless performance with Realme&#39;s latest smartphone."
      },
      {
        "id": 6,
@@ -88,7 +88,7 @@
        "image": "https://images.unsplash.com/photo-1545259741-2ea3ebf61fa3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c21hcnQlMjB3YWNofGVufDB8MHwwfHx8MA%3D%3D",
        "brand": "samsung",
        "color": "purple",
-       "description": "Efficiently control your home's temperature with this smart thermostat from Samsung."
+       "description": "Efficiently control your hom&#39;s temperature with this smart thermostat from Samsung."
      },
      {
        "id": 10,
@@ -138,7 +138,7 @@
        "image": "https://images.unsplash.com/photo-1617043786394-f977fa12eddf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c21hcnQlMjB3YXRjaHxlbnwwfDB8MHx8fDA%3D",
        "brand": "samsung",
        "color": "blue",
-       "description": "Stay connected with Samsung's smartwatch, offering a blend of style and functionality."
+       "description": "Stay connected with Samsun&#39;s smartwatch, offering a blend of style and functionality."
      },
      {
        "id": 15,
@@ -148,7 +148,7 @@
        "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c21hcnQlMjB3YXRjaHxlbnwwfDB8MHx8fDA%3D",
        "brand": "nokia",
        "color": "purple",
-       "description": "Track your health and stay connected with Apple's stylish and versatile smartwatch."
+       "description": "Track your health and stay connected with Apple&#39;s stylish and versatile smartwatch."
      }
    ]
  }
