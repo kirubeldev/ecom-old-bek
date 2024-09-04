@@ -49,7 +49,7 @@ const Cart = () => {
               {wishlist.map((item, index) => (
                 <div key={index} className={`flex justify-between items-center mb-6 ${index % 2 === 0 ? 'bg-gray-100' : 'bg-gray-200'} py-4 px-6 rounded-md`}>
 
-                    <Image src={item.image} className="w-[100px] h-[100px]" alt={item.name} />
+                    <Image src={item.image} className="w-[100px] h-[100px]" alt={item.name} width={100} height={100} />
          
           
                     <p className="truncate w-[200px]">{item.name}</p>

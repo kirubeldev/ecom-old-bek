@@ -69,7 +69,7 @@ hadeldecresquantity
                 <tr key={index} className='hover:bg-gray-100'>
                   <td className='px-6 py-4 whitespace-nowrap'>
                     <div className='flex items-center'>
-                      <Image className='h-16 w-16 rounded-md object-cover' src={item.image} alt={item.name} />
+                      <Image className='h-16 w-16 rounded-md object-cover' width={55} height={55} src={item.image} alt={item.name} />
                     </div>
                   </td>
                   <td className='px-2 py-4 whitespace-nowrap'>
